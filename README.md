@@ -1,4 +1,4 @@
-# FLEXITIMER - Arduino Timer Project
+# FLEXITIMER - Arduino Timer Systems
 
 ## Introduction
 **FLEXITIMER** is a versatile timing system based on the **Arduino Nano** platform, designed to provide stopwatch, countdown, and clock functionalities. The FLEXITIMER project comes in two versions:
