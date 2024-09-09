@@ -30,6 +30,12 @@ Both versions use the Arduino Nano as the central microcontroller and are progra
 
 ## Installation
 
+### Step 1: Download the Arduino IDE
+Download and install the [Arduino IDE](https://www.arduino.cc/en/software) on your computer.
+
+### Step 2: Clone or Download the Repository
+Clone this repository or download it as a zip file and extract it on your local machine.
+
 ### Step 3: Open the Project in the Arduino IDE
 1. Open the Arduino IDE.
 2. Load the `.ino` file corresponding to the FLEXITIMER version you want to use (FX486 or MX486) from the `code/` folder.
