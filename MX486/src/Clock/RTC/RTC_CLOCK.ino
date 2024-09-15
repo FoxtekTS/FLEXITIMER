@@ -34,7 +34,7 @@ void setup() {
     rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
   }
 
-  // Optionally, you can manually set the RTC time here:
+  // Manually set the RTC time here:
   // rtc.adjust(DateTime(2024, 9, 15, 7, 14, 0));
 }
 
