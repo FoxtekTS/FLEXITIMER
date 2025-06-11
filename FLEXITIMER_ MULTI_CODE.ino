@@ -16,7 +16,7 @@ byte rowPins[ROWS] = {6, 7, 8, 9};
 byte colPins[COLS] = {2, 3, 4, 5};
 
 Keypad keypadObj = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
-LedControl lc = LedControl(10, 12, 11, 1); 
+LedControl lc = LedControl(10, 12, 11, 1); // Pin config : (FX486 = 10, 11, 12) (MX486 = 10, 12, 11)
 
 unsigned long previousMillisCountdown = 0;
 unsigned long previousMillisDisplay = 0;
